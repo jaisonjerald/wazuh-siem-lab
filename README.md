@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="screenshots/banner.png" alt="Wazuh SIEM Lab Banner" width="100%">
+</p>
 # 🛡️ Wazuh SOC Lab – Installation, Windows Agent Deployment & File Integrity Monitoring (FIM)
 
 <p align="center">
